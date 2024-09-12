@@ -156,6 +156,7 @@ No known bugs at this time.
 ## Authors
 Kevin Kipkemboi - [Github](https://github.com/kevohm) / [Twitter](https://twitter.com/iamTYRANTX)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Benedict Mwiti - [Github](https://github.com/EscoBaite)
 
 Second part of Airbnb: Joann Vuong
 ## License
